@@ -1,0 +1,40 @@
+body{
+    background-color: tomato;
+}
+
+.main{
+    margin-left: 1em;
+}
+
+.sec1, .sec2 , .sec3{
+    float: left;
+    padding: 2em;
+    color: white;
+    width: 23%;
+
+    height: 300px;
+}
+
+
+.sec1{
+    background-color: yellow;
+}
+
+
+.sec2{
+    background-color: blue ;
+}
+
+.sec3{
+    background-color:black;
+}
+
+
+button{
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: white;
+    padding: 10px;
+    
+}
+
